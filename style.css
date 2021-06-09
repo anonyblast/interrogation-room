@@ -1,0 +1,45 @@
+.rules {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: grey;
+    font-family: sans-serif;
+    color: white;
+    height: 50%;
+    width: 100%;
+}
+
+body {
+    background-image: url("https://images.squarespace-cdn.com/content/v1/605389d9bd31c51cf14540cf/1616104184660-FJJV2L1TAV7D2Z4WLNDK/ke17ZwdGBToddI8pDm48kNvT88LknE-K9M4pGNO0Iqd7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UbeDbaZv1s3QfpIA4TYnL5Qao8BosUKjCVjCf8TKewJIH3bqxw7fF48mhrq5Ulr0Hg/sala-bg.png?format=2500w");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: yellow;
+    text-align: center;
+    font-family: sans-serif;
+    background-color: black;
+}
+
+.run {
+    color: whitesmoke;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+.startGame {
+    height: 50px;
+    width: 250px;
+    background-color: #a77b00;
+}
+
+#result {
+    background-color: #a77b00;
+    width: 250px;
+    font-size: 20px;
+    text-align: center;
+}
